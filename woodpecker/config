@@ -1,0 +1,8 @@
+scanner_ip=10.70.164.8
+account=admin,nsfocus2018
+web_driver=D:\\PyProject\\CNVD_Crawler\\chromedriver_win32\\chromedriver.exe
+vul_path=D:\\PyProject\\woodpecker\\vul.xls
+date_range=2016-02-01,2016-02-28
+spider_data=D:\\PyProject\\woodpecker\\exp.xlsx
+page_load_timeout=20
+threads_num=10
